@@ -1,0 +1,15 @@
+D:\Vitória Santana DDS01\AtividadeOrientada\AtividadeOrientada_Milena_2DDS-\AtividadeOrientada_Milena_2DDS-\bin\Debug\net8.0\AtividadeOrientada_Milena_2DDS-.exe
+D:\Vitória Santana DDS01\AtividadeOrientada\AtividadeOrientada_Milena_2DDS-\AtividadeOrientada_Milena_2DDS-\bin\Debug\net8.0\AtividadeOrientada_Milena_2DDS-.deps.json
+D:\Vitória Santana DDS01\AtividadeOrientada\AtividadeOrientada_Milena_2DDS-\AtividadeOrientada_Milena_2DDS-\bin\Debug\net8.0\AtividadeOrientada_Milena_2DDS-.runtimeconfig.json
+D:\Vitória Santana DDS01\AtividadeOrientada\AtividadeOrientada_Milena_2DDS-\AtividadeOrientada_Milena_2DDS-\bin\Debug\net8.0\AtividadeOrientada_Milena_2DDS-.dll
+D:\Vitória Santana DDS01\AtividadeOrientada\AtividadeOrientada_Milena_2DDS-\AtividadeOrientada_Milena_2DDS-\bin\Debug\net8.0\AtividadeOrientada_Milena_2DDS-.pdb
+D:\Vitória Santana DDS01\AtividadeOrientada\AtividadeOrientada_Milena_2DDS-\AtividadeOrientada_Milena_2DDS-\obj\Debug\net8.0\AtividadeOrientada_Milena_2DDS-.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vitória Santana DDS01\AtividadeOrientada\AtividadeOrientada_Milena_2DDS-\AtividadeOrientada_Milena_2DDS-\obj\Debug\net8.0\AtividadeOrientada_Milena_2DDS-.AssemblyInfoInputs.cache
+D:\Vitória Santana DDS01\AtividadeOrientada\AtividadeOrientada_Milena_2DDS-\AtividadeOrientada_Milena_2DDS-\obj\Debug\net8.0\AtividadeOrientada_Milena_2DDS-.AssemblyInfo.cs
+D:\Vitória Santana DDS01\AtividadeOrientada\AtividadeOrientada_Milena_2DDS-\AtividadeOrientada_Milena_2DDS-\obj\Debug\net8.0\AtividadeOrientada_Milena_2DDS-.csproj.CoreCompileInputs.cache
+D:\Vitória Santana DDS01\AtividadeOrientada\AtividadeOrientada_Milena_2DDS-\AtividadeOrientada_Milena_2DDS-\obj\Debug\net8.0\AtividadeOrientada_Milena_2DDS-.sourcelink.json
+D:\Vitória Santana DDS01\AtividadeOrientada\AtividadeOrientada_Milena_2DDS-\AtividadeOrientada_Milena_2DDS-\obj\Debug\net8.0\AtividadeOrientada_Milena_2DDS-.dll
+D:\Vitória Santana DDS01\AtividadeOrientada\AtividadeOrientada_Milena_2DDS-\AtividadeOrientada_Milena_2DDS-\obj\Debug\net8.0\refint\AtividadeOrientada_Milena_2DDS-.dll
+D:\Vitória Santana DDS01\AtividadeOrientada\AtividadeOrientada_Milena_2DDS-\AtividadeOrientada_Milena_2DDS-\obj\Debug\net8.0\AtividadeOrientada_Milena_2DDS-.pdb
+D:\Vitória Santana DDS01\AtividadeOrientada\AtividadeOrientada_Milena_2DDS-\AtividadeOrientada_Milena_2DDS-\obj\Debug\net8.0\AtividadeOrientada_Milena_2DDS-.genruntimeconfig.cache
+D:\Vitória Santana DDS01\AtividadeOrientada\AtividadeOrientada_Milena_2DDS-\AtividadeOrientada_Milena_2DDS-\obj\Debug\net8.0\ref\AtividadeOrientada_Milena_2DDS-.dll
